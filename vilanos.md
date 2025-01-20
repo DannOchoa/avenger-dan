@@ -2,3 +2,4 @@
 
 - dr octopus
 - duende verde
+- Capitán America
