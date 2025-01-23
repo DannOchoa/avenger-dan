@@ -1,6 +1,6 @@
 ## Miembros
 
-* Nick Fury
+* Nick Fury (supervisara la condicion del capi)
 * Black panther
 * Black Widow
 * Capitán Marvel
